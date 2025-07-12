@@ -9,4 +9,13 @@ pip install InquirePy
 ```
 
 #Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+The function in python asks various questions in order to build a readme.md file automatically using the programming language of Python.
+Th eusers input of questions answered will populate the readme.md file in the appropriate positions which in turn will format the actual file.
+
+#Licence
+
+#Links
+
+#Project Status
+
+
