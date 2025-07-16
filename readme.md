@@ -1,12 +1,12 @@
-![Project Logo](./images/logo.png)
+![Project Logo](./images/logo_dot.png)
 
 # Create a readme.md file using Python
 
 ## 📝 Description
-Using the scripting language of Python, create a feadme.md file building the answers to standard question.
+Using teh scripting language of Pythom, create a readme.md file building with the answers to standard questions
 
 ## ⚙️ How It Works
-The answers to the questions will populate the appropriate areas of the readme.md file, laying out the headers and the content. Some formatting to show the power of the rich import will add color
+The answers to the questions will populate the appropriate areas of the readme file, laying out headers and the content. Some formatting to show the power of the rich import will add color.
 
 ## 📦 Installation
 To install the required dependencies, run:

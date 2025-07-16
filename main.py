@@ -42,7 +42,7 @@ imports = [lib.strip() for lib in answers["listImports"].split(",") if lib.strip
 formatted_imports = "\n".join(f"- `pip install {lib}`" for lib in imports)
 
 # Markdown content
-readme_content = f"""![Project Logo](./images/logo.png)
+readme_content = f"""![Project Logo](./images/logo_dot.png)
 
 # {answers['projName']}
 
