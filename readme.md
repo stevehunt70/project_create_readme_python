@@ -7,7 +7,7 @@
 Using the scripting language of Python, create a readme.md file built with the answers from standard questions.
 
 ## ⚙️ How It Works
-The answers to the questions will populate the appropriate areas of the readme.md file, laying out the headers and the content. Some formatting to show the power of the rich import library will add color.
+The answers to the questions will populate the appropriate areas of the readme.md file, laying out the headers and the content. Some formatting to show the power of the rich import will add color.
 
 ## 📦 Installation
 To install the required dependencies, run:
@@ -25,6 +25,15 @@ These questions were used to build this README:
 - Add any project-related links.
 - What is the current status of the project?
 
+## 📝 Usuage Instructions
+From a terminal in Visual Code at the command prompt run python main.py
+
+Answer the standard questions about your project.
+
+When all questions are answered the readme.md file will be generated.
+
+Using the source control in Visual Code type in a change mesage and Commit and Push the README.md file to GitHub
+
 ## 🔐 License
 This project is licensed under the **Unlicensed** license.
 
@@ -35,6 +44,11 @@ https://github.com/stevehunt70/project_create_readme_python.git
 
 ## 🚦 Project Status
 **Active / In development**
+
+## 🧑‍💻 Contact Details
+Developer: Steve Hunt
+
+Email: steve@infineo-solutions.co.uk
 
 ---
 

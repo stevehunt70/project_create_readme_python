@@ -32,7 +32,8 @@ questions = [
         "name": "projStatus",
         "message": "🚦 What is the status of your project?",
         "choices": ["Active / In development", "Completed", "On hold", "Abandoned"]
-    }
+    },
+    {"type": "input", "name": "contact", "message": "🔗 Add in your contact email address."}
 ]
 
 answers = prompt(questions)
@@ -68,6 +69,12 @@ These questions were used to build this README:
 - Add any project-related links.
 - What is the current status of the project?
 
+## 📝 Usuage Instructions
+From a terminal in Visual Code at the command prompt run python main.py\n
+Answer the standard questions about your project.\n
+When all questions are answered the readme.md file will be generated.\n
+Using the source control in Visual Code type in a change mesage and Commit and Push the README.md file to GitHub
+
 ## 🔐 License
 This project is licensed under the **{answers['licence']}** license.\n
 You are free to use, modify, and distribute this software with proper attribution.
@@ -77,6 +84,10 @@ You are free to use, modify, and distribute this software with proper attributio
 
 ## 🚦 Project Status
 **{answers['projStatus']}**
+
+## 🧑‍💻 Contact Details
+Developer: Steve Hunt\n
+Email: {answers['contact']}
 
 ---
 
