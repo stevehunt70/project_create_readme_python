@@ -28,6 +28,8 @@ These questions were used to build this README:
 ## 🔐 License
 This project is licensed under the **Unlicensed** license.
 
+You are free to use, modify, and distribute this software with proper attribution.
+
 ## 🔗 Links
 https://github.com/stevehunt70/project_create_readme_python.git
 

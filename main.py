@@ -69,7 +69,8 @@ These questions were used to build this README:
 - What is the current status of the project?
 
 ## 🔐 License
-This project is licensed under the **{answers['licence']}** license.
+This project is licensed under the **{answers['licence']}** license.\n
+You are free to use, modify, and distribute this software with proper attribution.
 
 ## 🔗 Links
 {answers['projLinks']}
