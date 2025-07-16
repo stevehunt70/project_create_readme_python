@@ -1,16 +1,17 @@
-![Project Logo](./images/logo_dot.png)
+![Project Logo]<img src="./images/logo_dot.png" alt="Project Logo" width="50" height="50">
+
 
 # Create a readme.md file using Python
 
 ## 📝 Description
-Using teh scripting language of Pythom, create a readme.md file building with the answers to standard questions
+Using the scripting language of Python, create a readme.md file, built with the answers from standard questions.
 
 ## ⚙️ How It Works
-The answers to the questions will populate the appropriate areas of the readme file, laying out headers and the content. Some formatting to show the power of the rich import will add color.
+The answers to the questions will populate the appropriate areas of the readme.md file, laying out the headers and the content. Some formatting to show the power of the rich import will add color.
 
 ## 📦 Installation
 To install the required dependencies, run:
-- `pip install Inquirer`
+- `pip install Inquirere`
 - `pip install rich`
 
 ## ❓ Project Setup Questions

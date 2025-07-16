@@ -8,7 +8,7 @@ console = Console()
 # Welcome panel
 console.print(
     Panel.fit(
-        "[bold cyan]Automatic README Generator[/bold cyan]\n[green]Answer a few questions to generate a well-formatted README.md file[/green]",
+        "[bold cyan]Automatic README Creator[/bold cyan]\n[green]Answer a few questions to generate a formatted README.md file[/green]",
         title="📘 README Builder",
         subtitle="by Python + rich"
     )
@@ -42,7 +42,8 @@ imports = [lib.strip() for lib in answers["listImports"].split(",") if lib.strip
 formatted_imports = "\n".join(f"- `pip install {lib}`" for lib in imports)
 
 # Markdown content
-readme_content = f"""![Project Logo](./images/logo_dot.png)
+readme_content = f"""![Project Logo]<img src="./images/logo_dot.png" alt="Project Logo" width="50" height="50">
+
 
 # {answers['projName']}
 
